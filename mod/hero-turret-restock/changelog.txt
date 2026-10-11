@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2026-10-11
+  Changes:
+    - Works with HeroTurretsReduxFork as well as HeroTurretRedux; both are optional dependencies now.
+    - Requires Factorio 2.1.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-09-20
+  Features:
+    - Shortcut button that marks the lowest-ranked placed hero turrets for upgrade to the highest ranks in logistic storage.

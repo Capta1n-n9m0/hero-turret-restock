@@ -1,9 +1,9 @@
 {
   "name": "hero-turret-restock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Hero Turret Restock",
-  "author": "aliev",
-  "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0", "HeroTurretRedux"],
-  "description": "Shortcut button that puts ranked hero turrets sitting in logistic storage back on the wall: the lowest-ranked placed turrets are marked for upgrade to the highest ranks in stock, and construction robots do the swap."
+  "author": "Capta1n_n9m0",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1", "? HeroTurretRedux", "? HeroTurretsReduxFork"],
+  "description": "Shortcut button that puts ranked hero turrets sitting in logistic storage back on the wall: the lowest-ranked placed turrets are marked for upgrade to the highest ranks in stock, and construction robots do the swap. Needs HeroTurretRedux or HeroTurretsReduxFork with the kill counter set to Fuzzy (the default)."
 }
