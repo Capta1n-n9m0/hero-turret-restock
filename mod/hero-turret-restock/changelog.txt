@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2026-10-19
+  Info:
+    - Ships with automated tests (tests folder, for FactorioTest). They load only when the factorio-test mod is active; normal play is unchanged.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-10-11
   Changes:

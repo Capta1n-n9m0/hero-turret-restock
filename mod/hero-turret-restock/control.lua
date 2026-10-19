@@ -137,3 +137,7 @@ end)
 remote.add_interface("hero-turret-restock", {
   restock = function(force_name) return restock(game.forces[force_name or "player"], nil) end,
 })
+
+if script.active_mods["factorio-test"] then
+  require("__factorio-test__/init")({"tests/restock"})
+end
