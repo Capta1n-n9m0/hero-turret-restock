@@ -1,0 +1,6 @@
+{
+  "min_mods": ["HeroTurretRedux"],
+  "variants": {
+    "fork": ["HeroTurretsReduxFork", "!HeroTurretRedux"]
+  }
+}
